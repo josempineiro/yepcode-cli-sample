@@ -23,16 +23,16 @@
       "8529837b-2f03-4bd2-828b-9310f0db76e8": {
         "id": "8529837b-2f03-4bd2-828b-9310f0db76e8",
         "name": "Greeting",
-        "updatedAt": "2022-07-05T16:41:43.531Z",
-        "syncronizedAt": "2022-07-05T16:42:04.838Z"
+        "updatedAt": "2022-07-05T16:54:07.710539235Z",
+        "syncronizedAt": "2022-07-05T16:54:07.710Z"
       }
     },
     "js-modules": {
       "ead1f1bd-af67-4983-9076-eafb0d1bc6be": {
         "id": "ead1f1bd-af67-4983-9076-eafb0d1bc6be",
         "name": "foo",
-        "updatedAt": "2022-07-05T16:42:47.463Z",
-        "syncronizedAt": "2022-07-05T16:43:06.763Z"
+        "updatedAt": "2022-07-05T16:54:08.285751746Z",
+        "syncronizedAt": "2022-07-05T16:54:08.285Z"
       }
     },
     "credentials": {
@@ -49,14 +49,14 @@
         "value": "VALUE",
         "secured": false,
         "updatedAt": "2022-07-05T10:06:49.897Z",
-        "syncronizedAt": "2022-07-05T16:33:49.181Z"
+        "syncronizedAt": "2022-07-05T16:49:10.234Z"
       },
       "SECRET": {
         "key": "SECRET",
         "value": "********",
         "secured": false,
         "updatedAt": "2022-07-05T10:06:56.546Z",
-        "syncronizedAt": "2022-07-05T16:33:49.183Z"
+        "syncronizedAt": "2022-07-05T16:49:10.238Z"
       }
     }
   }
