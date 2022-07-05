@@ -8,12 +8,6 @@
         "updatedAt": "2022-07-05T15:01:59.020Z",
         "syncronizedAt": "2022-07-05T15:41:01.402Z"
       },
-      "8529837b-2f03-4bd2-828b-9310f0db76e8": {
-        "id": "8529837b-2f03-4bd2-828b-9310f0db76e8",
-        "name": "Greeting",
-        "updatedAt": "2022-07-05T16:18:19.499947383Z",
-        "syncronizedAt": "2022-07-05T16:18:19.444Z"
-      },
       "4edb2b25-6c6e-47fb-9f5c-bc0f91d97946": {
         "id": "4edb2b25-6c6e-47fb-9f5c-bc0f91d97946",
         "name": "What is the weather like?",
@@ -25,6 +19,12 @@
         "name": "Hello world",
         "updatedAt": "2022-07-04T14:37:57.818Z",
         "syncronizedAt": "2022-07-05T15:41:01.416Z"
+      },
+      "8529837b-2f03-4bd2-828b-9310f0db76e8": {
+        "id": "8529837b-2f03-4bd2-828b-9310f0db76e8",
+        "name": "Greeting",
+        "updatedAt": "2022-07-05T16:20:28.342Z",
+        "syncronizedAt": "2022-07-05T16:20:41.204Z"
       }
     },
     "js-modules": {
@@ -49,14 +49,14 @@
         "value": "VALUE",
         "secured": false,
         "updatedAt": "2022-07-05T10:06:49.897Z",
-        "syncronizedAt": "2022-07-05T15:41:02.463Z"
+        "syncronizedAt": "2022-07-05T16:20:42.294Z"
       },
       "SECRET": {
         "key": "SECRET",
-        "value": null,
-        "secured": true,
+        "value": "********",
+        "secured": false,
         "updatedAt": "2022-07-05T10:06:56.546Z",
-        "syncronizedAt": "2022-07-05T15:41:02.469Z"
+        "syncronizedAt": "2022-07-05T16:20:42.295Z"
       }
     }
   }
