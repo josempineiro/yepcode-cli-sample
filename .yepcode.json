@@ -23,8 +23,8 @@
       "8529837b-2f03-4bd2-828b-9310f0db76e8": {
         "id": "8529837b-2f03-4bd2-828b-9310f0db76e8",
         "name": "Greeting",
-        "updatedAt": "2022-07-05T16:57:11.224582053Z",
-        "syncronizedAt": "2022-07-05T16:57:11.224Z"
+        "updatedAt": "2022-07-05T16:58:39.693Z",
+        "syncronizedAt": "2022-07-05T16:58:45.556Z"
       }
     },
     "js-modules": {
@@ -49,14 +49,14 @@
         "value": "VALUE",
         "secured": false,
         "updatedAt": "2022-07-05T10:06:49.897Z",
-        "syncronizedAt": "2022-07-05T16:49:10.234Z"
+        "syncronizedAt": "2022-07-05T16:58:46.656Z"
       },
       "SECRET": {
         "key": "SECRET",
         "value": "********",
         "secured": false,
         "updatedAt": "2022-07-05T10:06:56.546Z",
-        "syncronizedAt": "2022-07-05T16:49:10.238Z"
+        "syncronizedAt": "2022-07-05T16:58:46.662Z"
       }
     }
   }
