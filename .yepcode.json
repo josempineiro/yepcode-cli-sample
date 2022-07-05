@@ -23,16 +23,16 @@
       "8529837b-2f03-4bd2-828b-9310f0db76e8": {
         "id": "8529837b-2f03-4bd2-828b-9310f0db76e8",
         "name": "Greeting",
-        "updatedAt": "2022-07-05T16:38:55.410128919Z",
-        "syncronizedAt": "2022-07-05T16:38:55.410Z"
+        "updatedAt": "2022-07-05T16:41:43.531Z",
+        "syncronizedAt": "2022-07-05T16:42:04.838Z"
       }
     },
     "js-modules": {
       "ead1f1bd-af67-4983-9076-eafb0d1bc6be": {
         "id": "ead1f1bd-af67-4983-9076-eafb0d1bc6be",
         "name": "foo",
-        "updatedAt": "2022-07-05T14:02:54.196Z",
-        "syncronizedAt": "2022-07-05T15:41:01.776Z"
+        "updatedAt": "2022-07-05T16:42:47.463Z",
+        "syncronizedAt": "2022-07-05T16:43:06.763Z"
       }
     },
     "credentials": {
