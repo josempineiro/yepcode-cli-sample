@@ -4,7 +4,7 @@ const {
   },
 } = yepcode;
 
-const greeting = `Hello ${name}! Nice to meet you??`;
+const greeting = `Hello ${name}!`;
 
 console.log(greeting);
 
