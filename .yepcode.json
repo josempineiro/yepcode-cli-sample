@@ -1,0 +1,63 @@
+{
+  "team": {
+    "slug": "jmpineiro",
+    "processes": {
+      "1faaa334-0dd2-4d56-9e2d-bdba88144c14": {
+        "id": "1faaa334-0dd2-4d56-9e2d-bdba88144c14",
+        "name": "NEW PROCESS",
+        "updatedAt": "2022-07-05T15:01:59.020Z",
+        "syncronizedAt": "2022-07-05T15:41:01.402Z"
+      },
+      "8529837b-2f03-4bd2-828b-9310f0db76e8": {
+        "id": "8529837b-2f03-4bd2-828b-9310f0db76e8",
+        "name": "Greeting",
+        "updatedAt": "2022-07-05T15:01:21.798Z",
+        "syncronizedAt": "2022-07-05T15:41:01.406Z"
+      },
+      "4edb2b25-6c6e-47fb-9f5c-bc0f91d97946": {
+        "id": "4edb2b25-6c6e-47fb-9f5c-bc0f91d97946",
+        "name": "What is the weather like?",
+        "updatedAt": "2022-07-05T14:01:39.241Z",
+        "syncronizedAt": "2022-07-05T15:41:01.412Z"
+      },
+      "f83e268c-cbe5-4594-ad51-f52c0d5dbec9": {
+        "id": "f83e268c-cbe5-4594-ad51-f52c0d5dbec9",
+        "name": "Hello world",
+        "updatedAt": "2022-07-04T14:37:57.818Z",
+        "syncronizedAt": "2022-07-05T15:41:01.416Z"
+      }
+    },
+    "js-modules": {
+      "ead1f1bd-af67-4983-9076-eafb0d1bc6be": {
+        "id": "ead1f1bd-af67-4983-9076-eafb0d1bc6be",
+        "name": "foo",
+        "updatedAt": "2022-07-05T14:02:54.196Z",
+        "syncronizedAt": "2022-07-05T15:41:01.776Z"
+      }
+    },
+    "credentials": {
+      "22b926a4-dbd6-4b6a-a76c-56edea9570d1": {
+        "id": "22b926a4-dbd6-4b6a-a76c-56edea9570d1",
+        "slug": "weather-api",
+        "updatedAt": "2022-07-05T13:30:14.336Z",
+        "syncronizedAt": "2022-07-05T15:41:02.116Z"
+      }
+    },
+    "variables": {
+      "KEY": {
+        "key": "KEY",
+        "value": "VALUE",
+        "secured": false,
+        "updatedAt": "2022-07-05T10:06:49.897Z",
+        "syncronizedAt": "2022-07-05T15:41:02.463Z"
+      },
+      "SECRET": {
+        "key": "SECRET",
+        "value": null,
+        "secured": true,
+        "updatedAt": "2022-07-05T10:06:56.546Z",
+        "syncronizedAt": "2022-07-05T15:41:02.469Z"
+      }
+    }
+  }
+}

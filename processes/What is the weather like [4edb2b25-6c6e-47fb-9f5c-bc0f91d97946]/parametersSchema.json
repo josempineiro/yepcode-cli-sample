@@ -1,0 +1,15 @@
+{
+  "title": "Flight information process",
+  "type": "object",
+  "properties": {
+    "place": {
+      "title": "Place",
+      "type": "string",
+      "default": "Coruña",
+      "ui:schema": ""
+    }
+  },
+  "required": [
+    "place"
+  ]
+}

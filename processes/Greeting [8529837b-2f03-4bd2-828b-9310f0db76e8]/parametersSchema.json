@@ -1,0 +1,14 @@
+{
+  "title": "Greet somebody",
+  "type": "object",
+  "properties": {
+    "name": {
+      "title": "Receiver name",
+      "type": "string",
+      "default": "YepCoder"
+    }
+  },
+  "required": [
+    "name"
+  ]
+}
